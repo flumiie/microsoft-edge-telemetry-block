@@ -1,4 +1,4 @@
-# microsoft-edge-telemetry-block
+# Microsoft Edge Telemetry Block
 
 Blocks MSEdge telemetries through specific microsoft's telemetry domains
 
